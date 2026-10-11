@@ -1,0 +1,105 @@
+{
+  "schema": "desk-helper-training-handoff/1",
+  "created_date": "2026-10-11",
+  "full_workspace": false,
+  "policy_bundle": false,
+  "training_started": false,
+  "controller_implemented": false,
+  "web_app_implemented": false,
+  "notes": [
+    "Clone the independent upstream repositories at sources.lock.json revisions.",
+    "Recreate environments on the target VM; no installed dependency is included.",
+    "Historical releases and root verification tools are not included.",
+    "Existing scene reports are preserved evidence, not new task acceptance."
+  ],
+  "files": {
+    "AGENTS.md": {
+      "bytes": 1554,
+      "sha256": "58eff089b8f32b5c783da4fbe7527c8550f9bfe467de3db003d33c15fa074294"
+    },
+    "docs/design-brief.zh.md": {
+      "bytes": 5928,
+      "sha256": "b71da7279bf2be50adc5b5eee5bfc45b6563b2af859498bc3ee66fe920532163"
+    },
+    "docs/training-handoff.zh.md": {
+      "bytes": 13420,
+      "sha256": "b5d71d1238feec1841229a5dea5be5a1e4aa661341912a4d8a2a7d0ace629310"
+    },
+    "references/sources.lock.json": {
+      "bytes": 746,
+      "sha256": "98d37d019cb9aa6fecc976179323e440868ab438bdf13fd2efcaa052eccdd4c8"
+    },
+    "releases/v0.6.0/skins/desk-helper-ice-blue-cat-ears.skin": {
+      "bytes": 10886007,
+      "sha256": "a96fb01435d3617fe57f6aa057e7904ff02809685800d78a9b0734e7c43ddeb9"
+    },
+    "scenes/drafts/v0.2.0/README.zh-CN.md": {
+      "bytes": 3249,
+      "sha256": "d24c26e68ca3fcb44fb19b8e5fdd7e2f20c2700a08ccf73614b1fe3b3934813c"
+    },
+    "scenes/drafts/v0.2.0/manifest.json": {
+      "bytes": 2622,
+      "sha256": "0aeec77d5b6d3bdfc324dba6329664a8b9341301b962fc1996f5e389075eabad"
+    },
+    "scenes/drafts/v0.2.0/maps/living-study-desk.map": {
+      "bytes": 11179460,
+      "sha256": "8063cc1934324931aca630c6f567bd802d93f30e0d8b3a1badb2a123b5a15a8e"
+    },
+    "scenes/drafts/v0.2.0/previews/detail.png": {
+      "bytes": 245975,
+      "sha256": "2cd3eddb43f5499eb13750b5e2ba254c73103083797b0b2e95bac3e419d789dc"
+    },
+    "scenes/drafts/v0.2.0/previews/environment.png": {
+      "bytes": 134337,
+      "sha256": "6b9f7b7b3de0ee75394049fce9f15588923e95992ebaa1d2461aa33b5933043c"
+    },
+    "scenes/drafts/v0.2.0/previews/layout.png": {
+      "bytes": 76756,
+      "sha256": "74b3496f21a86e02d945b35049e4e6be17b108cc735020e1694307aee1ec5ff9"
+    },
+    "scenes/drafts/v0.2.0/previews/with-robot.png": {
+      "bytes": 148431,
+      "sha256": "9112a254f63078695ba7d7cfb43a5aa0fc06d56bb89fae8c67d83a71a7979018"
+    },
+    "scenes/drafts/v0.2.0/reports/history-preservation.json": {
+      "bytes": 386,
+      "sha256": "8dded716bb78ecbdaa67d2174aacc1adfe9bbf5cdaf2ee89ecb0c7072a93506b"
+    },
+    "scenes/drafts/v0.2.0/reports/native-verification.json": {
+      "bytes": 6619,
+      "sha256": "31447be2c377ba25e833087a3eb8fda48732bafb22f8154ad93d3e5be710efcb"
+    },
+    "scenes/drafts/v0.2.0/reports/portability.json": {
+      "bytes": 387,
+      "sha256": "0b58b4b351cebe2bd412a774723b9a49633c51aae5edb63347d14fbdeddb1ccd"
+    },
+    "scenes/drafts/v0.2.0/reports/provenance.json": {
+      "bytes": 875,
+      "sha256": "83664a0820b8ed05fff6e80d58ed751c390ae3fd88d05cdfe721a1b426f9b2ea"
+    },
+    "scenes/drafts/v0.2.0/reports/visual-review.json": {
+      "bytes": 1333,
+      "sha256": "e1bf1baee3b9e9033e992766b15396efa669181384d91818e2744fdfed2229e8"
+    },
+    "scenes/drafts/v0.2.0/source/build_desktop_scene.py": {
+      "bytes": 23778,
+      "sha256": "367e6ebcbfeeb7d8c48f5ab7fbe409d6512704589764427a6bfcd832de690c5f"
+    },
+    "scenes/drafts/v0.2.0/source/living-study-desk.scene.json": {
+      "bytes": 73698,
+      "sha256": "2b76aa674e3e5ae07ae8eb066f8ca1e02ef96b53c482c91c3912c353cdca598b"
+    },
+    "scenes/drafts/v0.2.0/source/requirements-scene.txt": {
+      "bytes": 97,
+      "sha256": "8abe945d928bbf5c2bbf903e13ea98697348439bc766b5d0401c1cf014aafc2d"
+    },
+    "scenes/drafts/v0.2.0/source/verify_scene_drafts.py": {
+      "bytes": 4370,
+      "sha256": "460f8d6e08fc0283cc23663a2de3b0f96c461113cd5249cc48697b02a8efba54"
+    },
+    "versions.json": {
+      "bytes": 1187,
+      "sha256": "83554c7cc2d9888f4ffec59a0fc30d6d9c72f8189e0e9976e96736ae765787f7"
+    }
+  }
+}
